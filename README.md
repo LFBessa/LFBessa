@@ -1,4 +1,4 @@
-# LFBessa - Chemical Engineering and Computing - EN
+# LFBessa - Chemical Engineering, Data Analyst and Computing - EN
 
 This repository contains a collection of my works, projects, and studies in Chemical Engineering, with a focus on Computing, Computational Fluid Dynamics (CFD) Simulation, Meta-Heuristics, and Data Analysis.
 
@@ -60,7 +60,7 @@ If you have any questions or suggestions, feel free to reach out to me!
 
 ### LinkedIn: luisbessa
 
-# LFBessa - Engenharia Química e Computação - PT/BR
+# LFBessa - Engenharia Química, Análise de dados e Computação - PT/BR
 Este repositório contém uma coleção dos meus trabalhos, projetos e estudos na área de Engenharia Química, com foco em Computação, Simulação de Dinâmica de Fluidos Computacional (CFD), Meta-Heurísticas e Análise de Dados.
 
 
